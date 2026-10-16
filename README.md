@@ -17,6 +17,7 @@ As dependências utilizadas fazem parte da biblioteca padrão do Python.
 - `batalha_naval.py`: ponto de entrada do programa.
 - `jogo.py`: classes, regras, ataques e posicionamento de navios.
 - `interface.py`: menu, interface de terminal e histórico de partidas.
+- [Guia de estudo em PDF](docs/Guia_de_estudo_Batalha_Naval.pdf): versão para leitura e impressão.
 - [Guia de estudo](docs/Guia_de_estudo_Batalha_Naval.docx): código explicado, glossário e revisão para apresentação.
 - [Manual original](docs/Manual_Batalha_Naval_V2.pdf): manual usado como referência na construção do projeto.
 
